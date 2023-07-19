@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./main/grad\img.jpeg);
+	background-image: URL(./main/grad\img.jpeg);
 	background-size: relative;
 	background-position: absolute;
 	position: relative;

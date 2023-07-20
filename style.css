@@ -247,7 +247,6 @@ p {
 #hero h1:nth-child(3) {
 	animation: text_reveal_name 0.5s ease forwards;
 	animation-delay: 3s;
-	background-color: white;
 }
 #hero h1 span {
 	position: absolute;
@@ -562,7 +561,7 @@ p {
 }
 @keyframes text_reveal {
 	100% {
-		color: rgb(220, 130, 20);
+		color: white;
 	}
 }
 @keyframes text_reveal_name {

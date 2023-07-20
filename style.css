@@ -97,7 +97,7 @@ p {
 #header .nav-list ul {
 	list-style: none;
 	position: absolute;
-	background-color: rgb(108, 24, 130);
+	background-color: rgb(220, 130, 20);
 	width: 100vw;
 	height: 100vh;
 	left: 100%;
@@ -140,7 +140,7 @@ p {
 	letter-spacing: initial;
 }
 #header .nav-list ul li:hover a {
-	color: rgb(0, 10, 15);
+	color: red;
 }
 #header .hamburger {
 	height: 60px;
@@ -560,7 +560,7 @@ p {
 }
 @keyframes text_reveal {
 	100% {
-		color: white;
+		color: rgb(220, 130, 20);
 	}
 }
 @keyframes text_reveal_name {

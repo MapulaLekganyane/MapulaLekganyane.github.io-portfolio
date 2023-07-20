@@ -566,7 +566,7 @@ p {
 }
 @keyframes text_reveal_name {
 	100% {
-		color: white;
+		color: orange;
 		font-weight: 500;m
 	}
 }
@@ -675,10 +675,10 @@ p {
 		padding-left: 20px;
 	}
 	/* End contact  */
-}
-#header .hamburger{
+	}
+	#header .hamburger{
 	background-color: rgb(220, 130, 20);
-}
+	}
 /* End Media Query For Tablet */
 
 /* Media Query For Desktop */

@@ -93,6 +93,7 @@ p {
 	height: 100%;
 	max-width: 1300px;
 	padding: 0 10px;
+	background-color: rgb(220, 130, 20);
 }
 #header .nav-list ul {
 	list-style: none;

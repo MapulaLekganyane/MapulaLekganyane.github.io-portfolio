@@ -254,7 +254,6 @@ p {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color: rgb(220, 130, 20);
 	animation: text_reveal_box 1s ease;
 	animation-delay: 0.5s;
 }

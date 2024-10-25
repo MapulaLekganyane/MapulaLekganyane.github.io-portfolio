@@ -674,8 +674,11 @@ p {
 		text-align: left;
 		padding-left: 20px;
 	}
-	/* End contact  */
+	#contact .contact-info a:hover{
+  		color: hotpink;
 	}
+	/* End contact  */
+	
 	#header .hamburger{
 	background-color: rgb(220, 130, 20);
 	}

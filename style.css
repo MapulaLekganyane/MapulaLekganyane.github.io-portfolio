@@ -498,6 +498,7 @@ p {
 }
 #contact .contact-info h2 a:hover{
   		color: orange;
+		text-decoration: underline;
 	}
 /*End contact Section */
 

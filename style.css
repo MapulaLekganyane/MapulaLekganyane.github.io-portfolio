@@ -496,6 +496,9 @@ p {
 	line-height: 2rem;
 	font-weight: 500;
 }
+#contact .contact-info h2 a:hover{
+  		color: hotpink;
+	}
 /*End contact Section */
 
 /* Footer */
@@ -674,9 +677,7 @@ p {
 		text-align: left;
 		padding-left: 20px;
 	}
-	#contact .contact-info a:hover{
-  		color: hotpink;
-	}
+	
 	/* End contact  */
 	
 	#header .hamburger{

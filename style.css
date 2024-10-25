@@ -496,8 +496,8 @@ p {
 	line-height: 2rem;
 	font-weight: 500;
 }
-#contact .contact-info h2 a:hover{
-  		color: hotpink;
+#contact .contact-info h2 a:active{
+  		color: blue;
 	}
 /*End contact Section */
 
